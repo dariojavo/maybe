@@ -3,7 +3,7 @@
 
 #  FORK FROM "Maybe: The personal finance app for everyone"
 
-# This repor is **not affiliated with or endorsed by** Maybe Finance Inc.
+# This repo is **not affiliated with or endorsed by** Maybe Finance Inc.
 
 > [!IMPORTANT]
 > This repository is no longer actively maintained. You can read more about this in our [final release](https://github.com/maybe-finance/maybe/releases/tag/v0.6.0).
