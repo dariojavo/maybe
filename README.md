@@ -1,7 +1,9 @@
 
 <img width="1190" alt="maybe_hero" src="https://github.com/user-attachments/assets/5ed08763-a9ee-42b2-a436-e05038fcf573" />
 
-# Maybe: The personal finance app for everyone
+#  FORK FROM "Maybe: The personal finance app for everyone"
+
+# This repor is **not affiliated with or endorsed by** Maybe Finance Inc.
 
 > [!IMPORTANT]
 > This repository is no longer actively maintained. You can read more about this in our [final release](https://github.com/maybe-finance/maybe/releases/tag/v0.6.0).
